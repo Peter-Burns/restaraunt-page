@@ -1,0 +1,21 @@
+[class^="col-xs"]>ul{
+    border:thin solid black;
+}
+.sidebar{
+    position:fixed;
+    left:0px;
+}
+a:hover{
+    text-decoration: none;
+    color:red;
+}
+a{
+    color:black;
+}
+h2,h3{
+    font-family: 'Russo One', sans-serif;
+}
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    padding:5px;
+}
